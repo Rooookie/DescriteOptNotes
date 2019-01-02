@@ -1,0 +1,23 @@
+#+title: Notes on Optimization 
+#Time-stamp: <Last edited by Yisu @ 02-05-2017 18:30:57>
+* Introduction 
+  A cookbook for discrete optimization. The notes are created for readers to understand the mathematics, learn the algorithms, and solve examples with
+  state-of-the-art computer languages.
+* Development Log
+** TODO Linear Programming [0/4]
+  + [ ] Farkas Lemma
+  + [ ] Duality
+  + [ ] Simplex Algorithm
+  + [ ] Interior Point Method
+** IN-PROGRESS Lagrangian Relaxation [4/5]
+  + [X] Lagrangian Relaxation Subproblem @2017-02-03
+  + [X] Lagrangian Dual @2017-02-04
+  + [X] Subgradient Algorithm @2017-02-05
+  + [X] Example in Julia 
+  + [ ] Proof Reading 
+** IN-PROGRESS Benders' Decomposition [1/2] 
+  + [X] Benders Relaxation @2017-02-05
+  + [ ] Master and Sub Problems 
+
+
+
